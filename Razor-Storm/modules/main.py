@@ -343,7 +343,7 @@ class Main:
 			chdir("/tmp/Razor-Storm/")
 			system("sudo bash ./install_to_bin.sh")
 			print("[i] Deleting the temporary stored Razor-Storm...")
-			system("sudo rm -rf -i /tmp/Raven-Storm/")
+			system("sudo rm -rf -i /tmp/Razor-Storm/")
 			var.stop()
 			quit() 
 		except Exception:
