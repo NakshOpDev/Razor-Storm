@@ -24,7 +24,7 @@ if [ -f "/etc/debian_version" ]; then
         sudo apt-get install -y psmisc > /dev/null 2>&1 || echo "[!] Could not install psmisc."
         echo "[i] We will now download Razor-Storm..."
         sudo git clone https://github.com/NakshOpDev/Razor-Storm.git > /dev/null 2>&1 || echo "[!] Could not download Razor-Storm."
-        cd Razor-Storm> /dev/null 2>&1
+        cd Razor-Storm > /dev/null 2>&1
         echo "[i] We will now install requirements..."
         sudo pip3 install -r requirements.txt  > /dev/null 2>&1 || echo "[!] Could not install the requirements."
         echo "[i] We will now install Razor-Storm..."
