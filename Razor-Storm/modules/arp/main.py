@@ -1,8 +1,8 @@
 # 2020
-# The Raven-Storm Toolkit was programmed and developed by Taguar258.
-# The Raven-Storm Toolkit is published under the MIT Licence.
-# The Raven-Storm Toolkit is based on the CLIF-Framework.
-# The CLIF-Framework is programmed and developed by Taguar258.
+# The razor-Storm Toolkit was programmed and developed by naksh.
+# The razor-Storm Toolkit is published under the MIT Licence.
+# The razor-Storm Toolkit is based on the CLIF-Framework.
+# The CLIF-Framework is programmed and developed by naksh.
 # The CLIF-Framework is published under the MIT Licence.
 
 from os import getcwd, name, path, popen, system
@@ -90,14 +90,7 @@ class Main:
 		var.ip_forwarding_default = popen("sudo sysctl net.ipv4.ip_forward").read().replace("net.ipv4.ip_forward = ", "")
 
 		print(("""C_B----------------------------------------------------------C_W
-THE CREATOR DOES NOT TAKE ANY RESPONSIBILITY FOR DAMAGE CAUSED.
-THE USER ALONE IS RESPONSIBLE, BE IT: ABUSING RAVEN-STORM
-TO FIT ILLEGAL PURPOSES OR ACCIDENTAL DAMAGE CAUSED BY RAVEN-STORM.
-BY USING THIS SOFTWARE, YOU MUST AGREE TO TAKE FULL RESPONSIBILITY
-FOR ANY DAMAGE CAUSED BY RAVEN-STORM.
-EVERY ATTACK WILL CAUSE TEMPORARY DAMAGE, BUT LONG-TERM DAMAGE IS
-DEFFINITIFLY POSSIBLE.
-RAVEN-STORM SHOULD NOT SUGGEST PEOPLE TO PERFORM ILLEGAL ACTIVITIES.
+MADE BY NAKSH
 C_B----------------------------------------------------------C_W""").replace("C_W", var.C_None).replace("C_B", var.C_Bold))
 		self.help()
 
