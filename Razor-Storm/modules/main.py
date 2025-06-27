@@ -141,7 +141,7 @@ class Main:
 		event.help("clear", "Clear the screen.")
 		event.help("record", "Save this session.")
 		event.help("load", "Redo a session using a session file.")
-		event.help("ddos", "Connect to a Raven-Storm server.")
+		event.help("ddos", "Connect to a Razor-Storm server.")
 		event.help_comment("\nModules:")
 		event.help("l4", "Load the layer4 module. (UDP/TCP)")
 		event.help("l3", "Load the layer3 module. (ICMP)")
