@@ -19,7 +19,7 @@ _I archived this repository because I currently do not want to work on it._
 
 - [x] Razor-Storm includes tools for creating shorcuts and working more efficiently.
 - [x] Razor-Storm is **Effective** and **powerful** in shutting down hosts and servers.
-- [x] **Testing** and understanding are the goals of Raven-Storm.
+- [x] **Testing** and understanding are the goals of Razor-Storm.
 - [x] Tool lets you connects clients together to create a botnet.
 - [x] Features different protocols such as UDP/TCP, ICMP, HTTP, L2CAP, ARP and IEEE.
 
