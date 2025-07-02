@@ -1,7 +1,7 @@
 # 2020
-# The razor-Storm Toolkit was programmed and developed by naksh.
-# The razor-Storm Toolkit is published under the MIT Licence.
-# The razor-Storm Toolkit is based on the CLIF-Framework.
+# The mystic downer Toolkit was programmed and developed by naksh.
+# The mystic downer Toolkit is published under the MIT Licence.
+# The mystic downer Toolkit is based on the CLIF-Framework.
 # The CLIF-Framework is programmed and developed by naksh.
 # The CLIF-Framework is published under the MIT Licence.
 
