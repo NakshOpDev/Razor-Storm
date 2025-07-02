@@ -1,9 +1,4 @@
 # 2025
-# The mystic downer Toolkit was programmed and developed by naksh.
-# The razor-Storm Toolkit is published under the MIT Licence.
-# The razor-Storm Toolkit is based on the CLIF-Framework.
-# The CLIF-Framework is programmed and developed by naksh.
-# The CLIF-Framework is published under the MIT Licence.
 
 from os import getcwd, name, path, popen, system
 from sys import version
