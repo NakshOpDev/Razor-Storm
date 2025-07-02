@@ -1,7 +1,7 @@
-# 2020
-# The razor-Storm Toolkit was programmed and developed by naksh.
-# The razor-Storm Toolkit is published under the MIT Licence.
-# The razor-Storm Toolkit is based on the CLIF-Framework.
+# 2025
+# The mystic downer Toolkit was programmed and developed by naksh.
+# The mystic downer Toolkit is published under the MIT Licence.
+# The mystic downer Toolkit is based on the CLIF-Framework.
 # The CLIF-Framework is programmed and developed by naksh.
 # The CLIF-Framework is published under the MIT Licence.
 
@@ -52,16 +52,16 @@ class Main:
 		banner_middle_color = var.C_Violet
 		banner_bottom_color = var.C_Dark_Blue
 		banner_logo = ("""C_Bo-----------------------------------------------------------C_W
-  ██▀███   ▄▄▄      ▒███████▒ ▒█████   ██▀███       ██████ ▄▄▄█████▓ ▒█████   ██▀███   ███▄ ▄███▓
-▓██ ▒ ██▒▒████▄    ▒ ▒ ▒ ▄▀░▒██▒  ██▒▓██ ▒ ██▒   ▒██    ▒ ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒▓██▒▀█▀ ██▒
-▓██ ░▄█ ▒▒██  ▀█▄  ░ ▒ ▄▀▒░ ▒██░  ██▒▓██ ░▄█ ▒   ░ ▓██▄   ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒▓██    ▓██░
-▒██▀▀█▄  ░██▄▄▄▄██   ▄▀▒   ░▒██   ██░▒██▀▀█▄       ▒   ██▒░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  ▒██    ▒██ 
-░██▓ ▒██▒ ▓█   ▓██▒▒███████▒░ ████▓▒░░██▓ ▒██▒   ▒██████▒▒  ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒▒██▒   ░██▒
-░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░▒▒ ▓░▒░▒░ ▒░▒░▒░ ░ ▒▓ ░▒▓░   ▒ ▒▓▒ ▒ ░  ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░░ ▒░   ░  ░
-  ░▒ ░ ▒░  ▒   ▒▒ ░░░▒ ▒ ░ ▒  ░ ▒ ▒░   ░▒ ░ ▒░   ░ ░▒  ░ ░    ░      ░ ▒ ▒░   ░▒ ░ ▒░░  ░      ░
-  ░░   ░   ░   ▒   ░ ░ ░ ░ ░░ ░ ░ ▒    ░░   ░    ░  ░  ░    ░      ░ ░ ░ ▒    ░░   ░ ░      ░   
-   ░           ░  ░  ░ ░        ░ ░     ░              ░               ░ ░     ░            ░   
-                   ░                                                                            
+                        \x1b[38;2;0;83;168m ███▄ ▄███▓▓██   ██▓  ██████ ▄▄▄█████▓ ██▓ ▄████▄  
+                        \x1b[38;2;0;83;168m▓██▒▀█▀ ██▒ ▒██  ██▒▒██    ▒ ▓  ██▒ ▓▒▓██▒▒██▀ ▀█  
+                        \x1b[38;2;0;83;168m▓██    ▓██░  ▒██ ██░░ ▓██▄   ▒ ▓██░ ▒░▒██▒▒▓█    ▄ 
+                        \x1b[38;2;0;83;168m▒██    ▒██   ░ ▐██▓░  ▒   ██▒░ ▓██▓ ░ ░██░▒▓▓▄ ▄██▒
+                        \x1b[38;2;0;83;168m▒██▒   ░██▒  ░ ██▒▓░▒██████▒▒  ▒██▒ ░ ░██░▒ ▓███▀ ░
+                        \x1b[38;2;0;83;168m░ ▒░   ░  ░   ██▒▒▒ ▒ ▒▓▒ ▒ ░  ▒ ░░   ░▓  ░ ░▒ ▒  ░
+                        \x1b[38;2;0;83;168m░  ░      ░ ▓██ ░▒░ ░ ░▒  ░ ░    ░     ▒ ░  ░  ▒   
+                        \x1b[38;2;0;83;168m░      ░    ▒ ▒ ░░  ░  ░  ░    ░       ▒ ░░        
+                               \x1b[38;2;0;83;168m░    ░ ░           ░            ░  ░ ░      
+                                    \x1b[38;2;0;83;168m░ ░                           ░                                                                                    
 
 ----- The server module for the remote DDos attacks. -----
 
