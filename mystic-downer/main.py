@@ -1,11 +1,7 @@
 #!/usr/bin/python3
 
-# 2020
-# The Razor-Storm Toolkit was programmed and developed by Naksh.
-# The Razor-Storm Toolkit is published under the MIT Licence.
-# The Razor-Storm Toolkit is based on the Testing.
-# The Razor Nodes is programmed and developed by Naksh.
-# The Razor Nodes is published under the MIT Licence.
+# 2025
+
 
 from sys import argv
 
