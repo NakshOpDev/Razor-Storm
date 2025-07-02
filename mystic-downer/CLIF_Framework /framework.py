@@ -1,4 +1,3 @@
-# The CLIF Framework has been programmed by naksh and is published under the MIT License.
 
 import importlib
 
