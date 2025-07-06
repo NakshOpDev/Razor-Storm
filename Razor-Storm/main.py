@@ -1,7 +1,11 @@
 #!/usr/bin/python3
 
-# 2025
-
+# 2020
+# The Razor-Storm Toolkit was programmed and developed by Naksh.
+# The Razor-Storm Toolkit is published under the MIT Licence.
+# The Razor-Storm Toolkit is based on the Testing.
+# The Razor Nodes is programmed and developed by Naksh.
+# The Razor Nodes is published under the MIT Licence.
 
 from sys import argv
 
@@ -20,4 +24,4 @@ def run():
 
 if __name__ == "__main__":
 	run()
-  
+	
