@@ -1,7 +1,7 @@
 # 2025
 # The Razor-Storm Toolkit was programmed and developed by Naksh.
 # The Razor-Storm Toolkit is published in 2025
-# The Razor-Storm Toolkit is based on the CLIF-Framework.
+# The Razor-Storm Toolkit is published in 2025
 # The Razor-Storm is programmed and developed by Naksh.
 # The Razor-Storm is published in 2025
 
