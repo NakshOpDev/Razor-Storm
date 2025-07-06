@@ -1,8 +1,8 @@
-# Mystic Downer
+# Razor Storm
 
 ## Installation
 
-Just enter the following line to install Mystic Downer Linux.
+Just enter the following line to install Razor Storm Linux.
 
 ```bash
 curl -s https://raw.githubusercontent.com/NakshOpDev/mystic-downer/master/install.sh | sudo bash -s
