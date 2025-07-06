@@ -1,9 +1,9 @@
-# 2020
+# 2025
 # The Razor-Storm Toolkit was programmed and developed by Naksh.
-# The Razor-Storm Toolkit is published under the MIT Licence.
+# The Razor-Storm Toolkit is published in 2025
 # The Razor-Storm Toolkit is based on the CLIF-Framework.
 # The Razor-Storm is programmed and developed by Naksh.
-# The Razor-Storm is published under the MIT Licence.
+# The Razor-Storm is published in 2025
 
 from os import chdir, path, system
 from random import choice
@@ -82,16 +82,16 @@ class Main:
 		banner_middle_color = var.C_Violet
 		banner_bottom_color = var.C_Dark_Blue
 		banner_logo = (""" 
-                        \x1b[38;2;0;83;168m ███▄ ▄███▓▓██   ██▓  ██████ ▄▄▄█████▓ ██▓ ▄████▄  
-                        \x1b[38;2;0;83;168m▓██▒▀█▀ ██▒ ▒██  ██▒▒██    ▒ ▓  ██▒ ▓▒▓██▒▒██▀ ▀█  
-                        \x1b[38;2;0;83;168m▓██    ▓██░  ▒██ ██░░ ▓██▄   ▒ ▓██░ ▒░▒██▒▒▓█    ▄ 
-                        \x1b[38;2;0;83;168m▒██    ▒██   ░ ▐██▓░  ▒   ██▒░ ▓██▓ ░ ░██░▒▓▓▄ ▄██▒
-                        \x1b[38;2;0;83;168m▒██▒   ░██▒  ░ ██▒▓░▒██████▒▒  ▒██▒ ░ ░██░▒ ▓███▀ ░
-                        \x1b[38;2;0;83;168m░ ▒░   ░  ░   ██▒▒▒ ▒ ▒▓▒ ▒ ░  ▒ ░░   ░▓  ░ ░▒ ▒  ░
-                        \x1b[38;2;0;83;168m░  ░      ░ ▓██ ░▒░ ░ ░▒  ░ ░    ░     ▒ ░  ░  ▒   
-                        \x1b[38;2;0;83;168m░      ░    ▒ ▒ ░░  ░  ░  ░    ░       ▒ ░░        
-                               \x1b[38;2;0;83;168m░    ░ ░           ░            ░  ░ ░      
-                                    \x1b[38;2;0;83;168m░ ░                           ░                                                                                    
+ ██▀███   ▄▄▄      ▒███████▒ ▒█████   ██▀███       ██████ ▄▄▄█████▓ ▒█████   ██▀███   ███▄ ▄███▓
+▓██ ▒ ██▒▒████▄    ▒ ▒ ▒ ▄▀░▒██▒  ██▒▓██ ▒ ██▒   ▒██    ▒ ▓  ██▒ ▓▒▒██▒  ██▒▓██ ▒ ██▒▓██▒▀█▀ ██▒
+▓██ ░▄█ ▒▒██  ▀█▄  ░ ▒ ▄▀▒░ ▒██░  ██▒▓██ ░▄█ ▒   ░ ▓██▄   ▒ ▓██░ ▒░▒██░  ██▒▓██ ░▄█ ▒▓██    ▓██░
+▒██▀▀█▄  ░██▄▄▄▄██   ▄▀▒   ░▒██   ██░▒██▀▀█▄       ▒   ██▒░ ▓██▓ ░ ▒██   ██░▒██▀▀█▄  ▒██    ▒██ 
+░██▓ ▒██▒ ▓█   ▓██▒▒███████▒░ ████▓▒░░██▓ ▒██▒   ▒██████▒▒  ▒██▒ ░ ░ ████▓▒░░██▓ ▒██▒▒██▒   ░██▒
+░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░▒▒ ▓░▒░▒░ ▒░▒░▒░ ░ ▒▓ ░▒▓░   ▒ ▒▓▒ ▒ ░  ▒ ░░   ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░░ ▒░   ░  ░
+  ░▒ ░ ▒░  ▒   ▒▒ ░░░▒ ▒ ░ ▒  ░ ▒ ▒░   ░▒ ░ ▒░   ░ ░▒  ░ ░    ░      ░ ▒ ▒░   ░▒ ░ ▒░░  ░      ░
+  ░░   ░   ░   ▒   ░ ░ ░ ░ ░░ ░ ░ ▒    ░░   ░    ░  ░  ░    ░      ░ ░ ░ ▒    ░░   ░ ░      ░   
+   ░           ░  ░  ░ ░        ░ ░     ░              ░               ░ ░     ░            ░   
+                   ░                                                                            
 """)
 		banner_logo = banner_logo.replace("C_W", var.C_None)
 		banner_logo = banner_logo.replace("C_Bo", var.C_Bold)
@@ -141,7 +141,7 @@ class Main:
 		event.help("clear", "Clear the screen.")
 		event.help("record", "Save this session.")
 		event.help("load", "Redo a session using a session file.")
-		event.help("ddos", "Connect to a Razor-Storm server.")
+		event.help("ddos", "Connect to a Raven-Storm server.")
 		event.help_comment("\nModules:")
 		event.help("l4", "Load the layer4 module. (UDP/TCP)")
 		event.help("l3", "Load the layer3 module. (ICMP)")
@@ -343,7 +343,7 @@ class Main:
 			chdir("/tmp/Razor-Storm/")
 			system("sudo bash ./install_to_bin.sh")
 			print("[i] Deleting the temporary stored Razor-Storm...")
-			system("sudo rm -rf -i /tmp/Razor-Storm/")
+			system("sudo rm -rf -i /tmp/Raven-Storm/")
 			var.stop()
 			quit() 
 		except Exception:
